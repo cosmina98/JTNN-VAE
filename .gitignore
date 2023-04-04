@@ -4,3 +4,6 @@ data
 .vscode
 .idea
 *.egg-info
+fast_molvae/sample.py
+fast_jtnn/jtnn_vae.py
+fast_jtnn/jtnn_vae.py
